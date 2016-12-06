@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+
+# Sebastien Binet additions
+*.DS_Store
